@@ -1,0 +1,24 @@
+    1  ls
+    2  dir
+    3  dir Downloads/
+    4  dir Downloads
+    5  dir Downloads/ejemplo-git/
+    6  ls Downloads/
+    7  cd Downloads/
+    8  cd ejemplo-git/
+    9  touch adios.txt
+   10  git status
+   11  git add adios.txt
+   12  git commit 
+   13  cd Downloads/
+   14  cd ejemplo-git/
+   15  git status
+   16  git status
+   17  git log
+   18  git branch -v
+   19  git add adios.txt 
+   20  git log
+   21  git status
+   22  dir
+   23  history
+   24  history >> historia.txt
